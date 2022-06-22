@@ -1,0 +1,5 @@
+com/tiket/demoProject2/Model/Book.class
+com/tiket/demoProject2/Service/BookService.class
+com/tiket/demoProject2/DemoProject2Application.class
+com/tiket/demoProject2/Controller/BookController.class
+com/tiket/demoProject2/Repository/BookRepository.class
